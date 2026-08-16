@@ -12,12 +12,6 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasmitha-sudusinghe&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmitha-sudusinghe&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
 <br/>
 
 <h3 align="center">🛠️ Tech Stack</h3>
